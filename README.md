@@ -1,2 +1,3 @@
 # python-projects
-A directory of all my python related learning and weekend projects
+
+Repo ini berisi kumpulan catatan belajar dan weekend project menggunakan bahasa Python.
